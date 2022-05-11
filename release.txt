@@ -1,1 +1,2 @@
 release notes
+new line added during release 2.0
